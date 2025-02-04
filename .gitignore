@@ -1,0 +1,20 @@
+Aufgabenstellung Python Projekt.pdf
+.venv
+__pycache__/
+API_KEY_URL.py
+TKinter_test.py
+kreisdiagramme.png
+TestStringVar.py
+.idea/
+*.pyc
+Company.py~
+Popup.py~
+
+
+*~
+*.pyc
+*.swp
+*.bak
+*.log
+*.tmp
+

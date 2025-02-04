@@ -1,0 +1,6 @@
+requests
+BeautifulSoup4
+customtkinter
+pillow
+psycopg2
+matplotlib
