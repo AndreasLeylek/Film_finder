@@ -4,13 +4,13 @@ from tkinter import messagebox
 import requests
 import threading
 from TMDB import *
-from Streaming_Provider import get_streaming_provider_id, get_streaming_providers
-from Company import search_company_by_name
-from Genre import get_genre_id, get_genre_combination
-from Popup import *
-from Database import get_movie_data_from_tmdb, insert_movie_with_relations, get_saved_movies
-from Ergebnisse_Verlauf import show_saved_movies
-from Trending import show_trending_movies
+from streaming_provider import get_streaming_provider_id, get_streaming_providers
+from company import search_company_by_name
+from genre import get_genre_id, get_genre_combination
+from popup import *
+from db import get_movie_data_from_tmdb, insert_movie_with_relations, get_saved_movies
+from history import show_saved_movies
+from trending import show_trending_movies
 from best_movies import show_top_rated_movies
 from web_logger import scrape_imdb_description
 

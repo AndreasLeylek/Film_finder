@@ -9,6 +9,7 @@ TestStringVar.py
 *.pyc
 Company.py~
 Popup.py~
+def get_genre_id(genre_name).txt
 
 
 *~

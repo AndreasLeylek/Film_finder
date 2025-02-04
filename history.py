@@ -2,12 +2,12 @@ import webbrowser
 from PIL import Image
 from customtkinter import CTkImage, CTkToplevel, CTkLabel
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from Database import get_saved_movies, get_movie_data_from_tmdb, searches_per_genre
+from db import get_saved_movies, get_movie_data_from_tmdb, searches_per_genre
 import customtkinter as ctk
 from tkinter import messagebox
 from collections import Counter
 import matplotlib.pyplot as plt
-from Popup import load_poster
+from popup import load_poster
 from TMDB import get_imdb_id_from_tmdb
 from web_logger import scrape_imdb_description
 

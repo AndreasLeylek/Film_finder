@@ -2,7 +2,7 @@ import customtkinter as ctk
 import requests
 from tkinter import messagebox
 from TMDB import BEARER_TOKEN  # API-Token importieren
-from Popup import show_movie_popup  # Importiere die Funktion zum Anzeigen der Film-Details
+from popup import show_movie_popup  # Importiere die Funktion zum Anzeigen der Film-Details
 
 
 # Top bewertete Filme aufrufen
