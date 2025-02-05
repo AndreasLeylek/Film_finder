@@ -4,7 +4,7 @@
 Ein interaktives Python-Projekt zur Suche nach Filmen basierend auf einer Vielzahl von Filtern wie Genre, Produktionsfirma, Streamingdienst, Veröffentlichungsjahr, Stimmung und Laufzeit. Die Anwendung nutzt die TMDb-API, um relevante Filme abzurufen und eine benutzerfreundliche GUI bereitzustellen.
 
 # Inhaltsverzeichnis
-- [über das Projekt](#über-das-projekt)
+- [Über das Projekt](#über-das-projekt)
 - [Technologien](#technologien)
 - [Funktionen](#funktionen)
 - [Installation](#installation)
@@ -15,8 +15,17 @@ Ein interaktives Python-Projekt zur Suche nach Filmen basierend auf einer Vielza
 - [Bekannte Probleme](#bekannte-probleme)
 - [Docker Connection](#docker-connection)
 
-# über das Projekt
-Filmfinder ist ein benutzerfreundliches Tool, das es ermöglicht, gezielt Filme zu suchen und zu finden. Die Anwendung bietet Filteroptionen für Genre, Streaminganbieter, Produktionsfirma, Stimmung und Laufzeit. Die Filmdaten werden mithilfe der TMDb-API abgerufen und die Ergebnisse können in einem Popup-Fenster angezeigt werden.
+# Über das Projekt
+Kennst du das auch? Du sitzt gemütlich auf dem Sofa, willst einen Film schauen, öffnest deine Streaming-App und… zwei Stunden später bist du immer noch unentschlossen und enttäuscht. Genau dafür gibt’s Film Finder! Diese App stellt dir ein paar einfache Fragen und schlägt dir basierend auf deinen Antworten den perfekten Film vor. Schluss mit endlosem Durchscrollen – find den Film, den du wirklich sehen willst!
+
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/99ace70a-5a7f-41d2-98e6-c0111c229e41)
+![image](https://github.com/user-attachments/assets/aebc032d-3de3-4b44-aa90-541380cdd313)
+![image](https://github.com/user-attachments/assets/d988f70f-84ad-479b-992b-a6bcc5d82b2d)
+![image](https://github.com/user-attachments/assets/8a1fbebd-1ea9-4032-8b20-23189d414de4)
+![image](https://github.com/user-attachments/assets/9280e4df-3286-4318-af26-7492cc0cabe4)
+
 
 # Technologien
 **Programmiersprache:** Python
