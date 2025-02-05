@@ -25,6 +25,8 @@ Kennst du das auch? Du sitzt gemütlich auf dem Sofa, willst einen Film schauen,
 ![image](https://github.com/user-attachments/assets/d988f70f-84ad-479b-992b-a6bcc5d82b2d)
 ![image](https://github.com/user-attachments/assets/8a1fbebd-1ea9-4032-8b20-23189d414de4)
 ![image](https://github.com/user-attachments/assets/9280e4df-3286-4318-af26-7492cc0cabe4)
+![image](https://github.com/user-attachments/assets/fdbce1f8-234a-4694-8398-d47731cc6f59)
+![image](https://github.com/user-attachments/assets/6174266b-7f8c-4f35-b9de-1e6cc451a6b5)
 
 
 # Technologien
